@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\cssuser\\Documents\\CIS3334Android\\InClass 11 - XML_Weather_Full\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\cssuser\\Documents\\CIS3334Android\\InClass 11 - XML_Weather_Full\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\cssuser\\Documents\\CIS3334Android\\Heather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\cssuser\\Documents\\CIS3334Android\\Heather\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\cssuser\\Documents\\CIS3334Android\\InClass 11 - XML_Weather_Async\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\cssuser\\Documents\\CIS3334Android\\InClass 11 - XML_Weather_Async\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\cssuser\\Documents\\CIS3334Android\\Asynch JSON webservice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\cssuser\\Documents\\CIS3334Android\\Asynch JSON webservice\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]
